@@ -8,6 +8,6 @@
 6. 数据请求 : [axios](https://www.npmjs.com/package/axios)
 7. 后端：[node.js](http://nodejs.cn/api/)
 8. 数据库：
- >[mysql](http://www.runoob.com/mysql/mysql-tutorial.html)  
- >[GUI : workbench](https://dev.mysql.com/downloads/workbench/) 
+    >[mysql](http://www.runoob.com/mysql/mysql-tutorial.html)  
+    >[GUI : workbench](https://dev.mysql.com/downloads/workbench/) 
     
